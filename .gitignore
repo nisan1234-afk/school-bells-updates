@@ -1,0 +1,7 @@
+# never publish signing keys or secrets
+*.hex
+*.key
+*.pem
+*private*
+*secret*
+*signing*
