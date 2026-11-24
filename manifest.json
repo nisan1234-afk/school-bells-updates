@@ -5,10 +5,10 @@
     "beta": {
       "version": "1.3.4",
       "file": "files/school-bells-update-1.3.4.zip",
-      "sha256": "ffef06b98df2c3c3f436433e7ac5e666400ac1bbad26b31e90dd38e7727689b4",
+      "sha256": "f868f76f22f31fa587c44b90d7c27f90eac3b5934a4c78c61b0f1cee325accbb",
       "min_from": "1.1",
       "full_installer": "files/school-bells-1.3.4.zip",
-      "published": "2026-11-24T08:11:35"
+      "published": "2026-11-24T08:18:31"
     },
     "stable": {
       "version": "1.3",
@@ -20,6 +20,6 @@
       "promoted": "2026-11-23T20:01:17"
     }
   },
-  "updated": "2026-11-24T08:11:35",
+  "updated": "2026-11-24T08:18:31",
   "beta_devices": []
 }
