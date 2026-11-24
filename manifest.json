@@ -3,12 +3,12 @@
   "format": 1,
   "channels": {
     "beta": {
-      "version": "1.3.4",
-      "file": "files/school-bells-update-1.3.4-11e0148fcb.zip",
-      "sha256": "11e0148fcb1e5627a48eac7e05d4fdb4e6e654df791b7605cfc5644de87a4ff5",
+      "version": "1.4",
+      "file": "files/school-bells-update-1.4-80a1009741.zip",
+      "sha256": "80a100974120b9ae0d714090d4a55f924124961fec5a8166f6f640b5f9a04c62",
       "min_from": "1.1",
-      "full_installer": "files/school-bells-1.3.4-cc654f42f3.zip",
-      "published": "2026-11-24T08:19:16"
+      "full_installer": "files/school-bells-1.4-e671d14879.zip",
+      "published": "2026-11-24T08:57:03"
     },
     "stable": {
       "version": "1.3",
@@ -20,6 +20,6 @@
       "promoted": "2026-11-23T20:01:17"
     }
   },
-  "updated": "2026-11-24T08:19:16",
+  "updated": "2026-11-24T08:57:03",
   "beta_devices": []
 }
